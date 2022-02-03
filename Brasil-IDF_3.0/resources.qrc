@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/BrasilIDF" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
